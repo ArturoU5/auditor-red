@@ -28,3 +28,4 @@ python3 -m unittest discover -s tests -v                      # pruebas
 - Angello Andre Ramírez Del Aguila
 - Omar Alexander Córdova Pintado
 - ⁠Josmel Montoya Paiva
+- Marco Antonio Suarez Siesquen
