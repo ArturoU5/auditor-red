@@ -1,0 +1,11 @@
+{
+  "count": 5,
+  "next": null,
+  "results": [
+    {"id": 1, "name": "sw-core-01", "device_type": {"model": "Catalyst 9300", "manufacturer": {"name": "Cisco"}}, "role": {"name": "Switch de core"}, "site": {"name": "Lima-Sede"}, "status": {"value": "active"}, "primary_ip4": {"address": "10.0.0.1/24"}, "serial": "FOC1234A001", "platform": {"name": "IOS-XE"}},
+    {"id": 2, "name": "sw-acc-02", "device_type": {"model": "Catalyst 2960", "manufacturer": {"name": "Cisco"}}, "role": {"name": "Switch de acceso"}, "site": {"name": "Lima-Sede"}, "status": {"value": "active"}, "primary_ip4": {"address": "10.0.0.2/24"}, "serial": "FOC1234A002", "platform": {"name": "IOS"}},
+    {"id": 3, "name": "rt-borde-01", "device_type": {"model": "ISR 4331", "manufacturer": {"name": "Cisco"}}, "role": {"name": "Router"}, "site": {"name": "Lima-Sede"}, "status": {"value": "offline"}, "primary_ip4": null, "serial": "", "platform": {"name": "IOS-XE"}},
+    {"id": 4, "name": "fw-perim-01", "device_type": {"model": "FortiGate 100F", "manufacturer": {"name": "Fortinet"}}, "role": {"name": "Firewall"}, "site": {"name": "Arequipa"}, "status": {"value": "active"}, "primary_ip4": {"address": "172.16.0.1/24"}, "serial": "FGT100F0001", "platform": null},
+    {"id": 5, "name": "ap-piso2-03", "device_type": {"model": "AP-515", "manufacturer": {"name": "Aruba"}}, "role": {"name": "Punto de acceso"}, "site": {"name": "Arequipa"}, "status": {"value": "planned"}, "primary_ip4": null, "serial": "CN12345678", "platform": null}
+  ]
+}
