@@ -27,5 +27,4 @@ python3 -m unittest discover -s tests -v                      # pruebas
 - Guillermo Arturo Ugaz Montesinos
 - Angello Andre Ramírez Del Aguila
 - Omar Alexander Córdova Pintado
-## Equipo de Administración de Red
-## Equipo de Administración de Red
+- ⁠Josmel Montoya Paiva
